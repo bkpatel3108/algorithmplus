@@ -1,6 +1,6 @@
 package me.algo.leetcode;
 
-public class Lc209MinimumSizeSubarraySum {
+public class Lc0209MinimumSizeSubarraySum {
 	public int minSubArrayLen(int s, int[] nums) {
 		if (nums == null || nums.length == 0)
 			return 0;
