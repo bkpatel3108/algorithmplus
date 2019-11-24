@@ -2,7 +2,7 @@ package me.algo.leetcode;
 
 import java.util.Arrays;
 
-public class Lc0163SumClosest {
+public class Lc016ThreeSumClosest {
 	public int threeSumClosest(int[] nums, int target) {
 		int result = Integer.MAX_VALUE;
 		int diff = Integer.MAX_VALUE;
